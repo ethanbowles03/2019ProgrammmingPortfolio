@@ -3,10 +3,11 @@ cottonwoodcoyoteutah@gmail.com
 
 ethabowl9644@granitesd.org
 # First Semester
+In the first semester we focused on getting learing the basics of programming by using a program called processing
 ## Processing
-### Calculator
-##### Completed Nov. 20 2019
+### -Calculator-
+##### --Completed Nov. 20 2019--
 My calculator is an object oriented program with most of the basic function on most calculators
 
 The calculator has a grey and black theme along with a screen which prints numbers as you click them
-![Calculator](image address)
+![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc.png)
