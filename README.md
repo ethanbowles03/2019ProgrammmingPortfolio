@@ -10,4 +10,4 @@ In the first semester we focused on getting learing the basics of programming by
 My calculator is an object oriented program with most of the basic function on most calculators
 
 The calculator has a grey and black theme along with a screen which prints numbers as you click them
-![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc01.jpg?raw=true)
+![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc1.jpg?raw=true)
