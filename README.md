@@ -12,3 +12,4 @@ My calculator is an object oriented program with most of the basic function on m
 The calculator has a grey and black theme along with a screen which prints numbers as you click them
 
 ![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc1.png?raw=true)
+[Link to calculator syntax](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Calc/calculatorApp.zip)
