@@ -11,7 +11,8 @@ My screen saver app creates a full screen screen saver that generates random lin
 
 It has a white background and randomly generates lines that connect in shades of grey and black
 
-
+![Screen Saver](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/screenSaver.png?raw=true)
+[Click here to view code]()
 
 ### -Calculator-
 ##### --Completed Nov. 20 2019--
