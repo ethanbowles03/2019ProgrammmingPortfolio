@@ -31,6 +31,9 @@ My space ship game is an object oriented program that use a ship, rocks and lase
 
 You fly a f-13 through space and try to hit every astriod, as they pass, with lasers
 
-If they pass or hit you you take damage. If you health reaches 0 you lose
+If they pass or hit you take damage. If you health reaches 0 you lose
 
-
+![SpaceShipGame](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/SpaceShip.png?raw=true)
+![SpaceShipGameMockUp](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/MockUp.png?raw=true)
+![SpaceShipGameUI](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/SpaceShipGame%20UI.jpg?raw=true)
+[Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/SpaceGame/spaceShipGame.zip)
