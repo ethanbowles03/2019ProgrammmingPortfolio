@@ -22,6 +22,7 @@ The calculator has a grey and black theme along with a screen which prints numbe
 
 ![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc1.png?raw=true)
 ![Calculator Mockup](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/calcMock.jpg?raw=true)
+
 [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Calc/calculatorApp.zip)
 
 ### -SpaceShipGame-
