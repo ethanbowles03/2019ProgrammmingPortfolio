@@ -48,3 +48,14 @@ You input your birthday and it prints information about how long you have lived 
 ![ItsADate](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/ItsADate.png?raw=true)
 
 [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/ItsADate/date.cpp)
+
+### -WordCreator-
+#### --Completed Mar.12 2019--
+My word creator app is a random word generator
+
+It generates a random prexif suffix and root word and creats a new word
+
+It also provides the defenintion for the new word using the defenitions from the prefix, siffix and root word
+
+![Word Creator]()
+ [Click here to view code]()
