@@ -38,3 +38,13 @@ If they pass or hit you take damage. If you health reaches 0 you lose
 ![SpaceShipGameUI](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/SpaceShip%20GameUI.jpg?raw=true)
 
 [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/SpaceGame/spaceShipGame.zip)
+
+### -ItsADate-
+#### --Completed Fri. Feb 8--
+The its a date app was one of the first programs i created in c++
+
+You input your birthday and it prints information about how long you have lived such as day, months and years.
+
+![ItsADate](?raw=true)
+
+[Click here to view code]()
