@@ -59,3 +59,17 @@ It also provides the defenintion for the new word using the defenitions from the
 
 ![Word Creator](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/WordCreator.png?raw=true)
  [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/tree/master/WordCreator/Word%20Creator%20Group%201)
+
+### -ShrekAdventureGame-
+#### -- Completed Mar. 4 2019--
+
+The shrek game is a story game
+
+It is very similar to the game lifeline on ios
+
+It goes through the basic plot of the movie and inorder to move on to the next scene you need to answer a set of math related questions
+
+It was the first program i created in c++ in which has classes
+
+![ShrekGame](?raw=true)
+[Click here to view code]()
