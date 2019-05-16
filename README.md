@@ -45,6 +45,6 @@ The its a date app was one of the first programs i created in c++
 
 You input your birthday and it prints information about how long you have lived such as day, months and years.
 
-![ItsADate](?raw=true)
+![ItsADate](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/ItsADate.png?raw=true)
 
 [Click here to view code]()
