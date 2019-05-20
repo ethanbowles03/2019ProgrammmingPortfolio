@@ -1,0 +1,3 @@
+/Users/9644594/CLionProjects/passStore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/9644594/CLionProjects/passStore/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/9644594/CLionProjects/passStore/cmake-build-debug/CMakeFiles/passStore.dir

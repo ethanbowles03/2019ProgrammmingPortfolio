@@ -1,0 +1,13 @@
+
+Password ;
+Thu May  2 12:45:01 2019
+ Deposit: $100, test, Balance: $300 ;
+~
+Password ;
+Thu May  2 12:58:02 2019
+ Deposit: $200, , Balance: $500 ;
+~
+Jacob ;
+Thu May  2 13:18:51 2019
+ Deposit: $200, , Balance: $200 ;
+~

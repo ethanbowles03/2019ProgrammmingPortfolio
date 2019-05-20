@@ -1,0 +1,1 @@
+password.o: ../password.cpp
